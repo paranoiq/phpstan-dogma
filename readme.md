@@ -1,0 +1,3 @@
+Dogma extension for PHPStan
+===========================
+
